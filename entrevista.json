@@ -1,0 +1,48 @@
+{
+    "entrevista": {
+      "total_entrevistados": 10000,
+      "marcas": [
+        {
+          "nome": "Natura",
+          "uso_percentual": 25
+        },
+        {
+          "nome": "Avon",
+          "uso_percentual": 20
+        },
+        {
+          "nome": "O Boticário",
+          "uso_percentual": 15
+        },
+        {
+          "nome": "Maybelline",
+          "uso_percentual": 10
+        },
+        {
+          "nome": "L'Oreal",
+          "uso_percentual": 10
+        },
+        {
+          "nome": "Dailus",
+          "uso_percentual": 7
+        },
+        {
+          "nome": "Vult",
+          "uso_percentual": 5
+        },
+        {
+          "nome": "Quem Disse, Berenice?",
+          "uso_percentual": 4
+        },
+        {
+          "nome": "Tracta",
+          "uso_percentual": 3
+        },
+        {
+          "nome": "Eudora",
+          "uso_percentual": 1
+        }
+      ]
+    }
+  }
+  
