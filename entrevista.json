@@ -1,7 +1,4 @@
-{
-    "entrevista": {
-      "total_entrevistados": 10000,
-      "marcas": [
+[
         {
           "nome": "Natura",
           "uso_percentual": 25
@@ -43,6 +40,3 @@
           "uso_percentual": 1
         }
       ]
-    }
-  }
-  
